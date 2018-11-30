@@ -1,0 +1,75 @@
+body{
+	background-image: url("assets/img/mylifestylecopy.jpg");
+	margin:0;
+	padding:0;
+}
+
+header{
+	background:none;
+	margin: 0;
+	position:relative;
+}
+
+nav{
+	position: absolute;
+	top: 0px;
+	right:50px;
+}
+
+nav ul{
+	list-style: ;
+}
+
+nav li{
+	display: inline-block;
+
+}
+
+nav a{
+	font-size:24px;
+	background:none;
+	color:#96f;
+	padding:10px;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-family: cursive;
+}
+
+nav a:hover{
+	background: none;
+	color: #96f;
+}
+h1{
+	font-family:cursive;
+	font-size: 30px;
+	color:#b8ff00;
+	position:
+}
+
+.wlcm{
+	background:none;
+	float:;
+	width;;
+	padding:30px;
+	margin:25px;
+	border-radius:;
+	text-align:;
+}
+
+{
+	background: url();
+	background-size: ;
+	background-position: ;
+	padding: ;
+	font-family: ;
+}
+
+{
+	background: ;
+}
+
+form{
+	background:none;
+	color:#ff6;
+	text-decoration:none;
+}

@@ -1,0 +1,131 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: fantasy;
+	font-size: 20px;
+}
+
+header {
+	background: none;
+	margin: 0;
+	position: relative;
+}
+
+nav {
+	position: absolute;
+	top: 0px;
+	right: 50px;
+	background: none;
+}
+
+nav ul {
+	list-style: ;
+}
+
+nav li {
+	display: inline-block;
+
+}
+
+nav a {
+	font-size: 24px;
+	background: none;
+	color: #96f;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: cursive;
+}
+
+nav a:hover {
+	background: none;
+	color: #96f;
+}
+
+h1 {
+	font-family: cursive;
+	font-size: 30px;
+	color: #b8ff00 #c06 #6fc;
+	position:
+}
+
+	{
+	background: none;
+	float: ;
+	width;
+	;
+	padding: 30px;
+	margin: 25px;
+	border-radius: ;
+	text-align: ;
+}
+
+	{
+	background: url();
+	background-size: ;
+	background-position: ;
+	padding: ;
+	font-family: ;
+}
+
+.home-bg {
+	background: url("assets/img/explodingheartbeat.jpg") no-repeat center center fixed;
+	font-family: fantasy;
+	font-size: 20px;
+	color: #c06;
+	text-align: left;
+}
+
+.about-bg {
+	background: url("assets/img/neonsplashcopy.jpg") no-repeat center center fixed;
+	font-family: fantasy;
+	font-size: 20px;
+	color: #6fc;
+	text-align: left;
+}
+
+.contact-bg {
+	background: url("assets/img/mylifestylecopy.jpg") repeat center center fixed;
+	font-family: fantasy;
+	font-size: 20px;
+	text-align: left;
+}
+
+html {
+	-home-background-size: cover;
+	-about-background-size: cover;
+	-contact-background-size: cover;
+	background-size: cover;
+}
+
+form {
+	background: none;
+	color: #ff6;
+	font-family: fantasy;
+	font-size: 20px;
+	text-decoration: none;}
+
+	footer {
+		font-family: fantasy;
+		font-size: 20px;
+		color:#f66;
+		position: relative;
+	}
+footer ul{
+	list-style: ;
+}
+footer li{
+	display: inline-block;
+}
+footer  a {
+	font-size: 30px;
+	background: none;
+	color: #f66;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: cursive;
+}
+nav a:hover {
+	background: none;
+	color: #f66;}
